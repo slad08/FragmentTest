@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FragmentTest</string>
+    <string name="add_text">Добавить</string>
+    <string name="first_fragm">Мой первый фрагмент</string>
+    <string name="second_fragm">Мой второй фрагмент</string>
+    <string name="btnDel">Удалить</string>
+    <string name="btnReplace">Заменить</string>
+</resources>
